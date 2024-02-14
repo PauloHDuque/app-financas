@@ -1,0 +1,16 @@
+{
+  "name": "app-financas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "json-server --watch db.json"
+  },
+  "author": "PHBD",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}

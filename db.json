@@ -1,0 +1,24 @@
+{
+  "transactions": [
+    {
+      "name": "Salário",
+      "amount": 1500,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Feira",
+      "amount": -600
+    },
+    {
+      "id": 3,
+      "name": "Conta de luz",
+      "amount": -50
+    },
+    {
+      "id": 4,
+      "name": "Aluguel",
+      "amount": -600
+    }
+  ]
+}
